@@ -1,0 +1,6 @@
+C:\Users\MBAYE DIENG\source\repos\BanqueTests\bin\Debug\net8.0\CoverletSourceRootsMapping_BanqueTests
+C:\Users\MBAYE DIENG\source\repos\BanqueTests\obj\Debug\net8.0\BanqueTests.csproj.AssemblyReference.cache
+C:\Users\MBAYE DIENG\source\repos\BanqueTests\obj\Debug\net8.0\BanqueTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MBAYE DIENG\source\repos\BanqueTests\obj\Debug\net8.0\BanqueTests.AssemblyInfoInputs.cache
+C:\Users\MBAYE DIENG\source\repos\BanqueTests\obj\Debug\net8.0\BanqueTests.AssemblyInfo.cs
+C:\Users\MBAYE DIENG\source\repos\BanqueTests\obj\Debug\net8.0\BanqueTests.csproj.CoreCompileInputs.cache
